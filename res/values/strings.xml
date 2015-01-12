@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string name="hello">Hello World, NewsReaderActivity!</string>
+    <string name="app_name">NewsReader</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_feedsurl">Settings</string>
+    <string name="menu_color_scheme">Color scheme</string>
+    <string name="menu_color_scheme_1">Scheme #1</string>
+    <string name="menu_color_scheme_2">Scheme #2</string>
+    <string name="menu_color_scheme_3">Scheme #3</string>
+
+    <string name="pref_nextscreen">Next Screen</string>
+    <string name="pref_nextscreen_summary">Next Screen Summary</string>
+
+    <string name="pref_title_next_screen_toggle_preference">Next Screen toggle preference</string>
+    <string name="pref_summary_next_screen_toggle_preference">Next Screen toggle preference</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+
+
+    <string name="pref_notification_setting">NOTIFICATION AND REMINDERS</string>
+    <string name="pref_notifications">Notification</string>
+    <string name="pref_syncFrequency">Default reminder time</string>
+    <string name="pref_syncFrequency_summary">Default reminder time summary</string>
+    <string name="settings_feeds">Settings</string>
+    <string name="settings_update">Sync data</string>
+    <string name="settings_updateSummary">Auto sync,Wifi sync, power-up sync</string>
+
+    <string name="settings_updateAutomatic">Enable background sync</string>
+    <string name="settings_updateAutomaticSummary">Automatically sync data</string>
+    <string name="settings_updateFrequency">Sync frequency</string>
+    <string name="settings_updateFrequencyDialogTitle">Choose sync frequency</string>
+    <string name="settings_updateOnlyWifi">Wi-Fi only sync</string>
+    <string name="settings_updateOnlyWifiSummary">Automatically sync data only when connected to Wi-Fi</string>
+    <string name="settings_updateOnStartup">Sync data on power-up</string>
+    <string name="settings_updateOnStartupSummary">Starts sync when powered on</string>
+    <string name="settings_updateTimeout">Sync timeout</string>
+    <string name="settings_updateTimeoutDialogTitle">Choose sync timeout</string>
+
+    <string name="settings_display">Presentation</string>
+    <string name="settings_displaySummary">Presentation,location</string>
+
+    <string name="settings_displayEvents">Events</string>
+    <string name="settings_displayEventsDialogTitle">Choose how much events view</string>
+    <string name="settings_displayMagnitudoMin">Min Magnitudo</string>
+    <string name="settings_displayMagnitudoMinDialogTitle">Choose.....</string>
+    <string name="settings_displayDistance"></string>
+    <string name="settings_displayCalculateDistance"></string>
+    <string name="settings_displayCalculateDistanceSummary"></string>
+    <string name="settings_displayBasePoint"></string>
+    <string name="settings_displayAccuracy"></string>
+    <string name="settings_displayAccuracySummary">Accurate detection</string>
+
+    <string name="settings_notify">Notification</string>
+
+    <string name="settings_serverIp">Server Endpoint(like http://www.wired.com/wp-json) </string>
+    <string name="settings_feedaddtionalurl">wp rest api additional feed url(like: /posts?page=) </string>
+
+    <string name="setting_serverIpDefault">myserver.mydomain.it</string>
+    <string name="settings_updateTimeoutnPicker">Sync timeout (numberPicker)</string>
+    <string name="settings_updateTimeoutnPickerDialogTitle">Choose sync timeout (minutes)</string>
+    <string name="settings_minute">Minute</string>
+    <string name="settings_minutes">Minutes</string>
+    <string name="setting_notificationSound">Sound</string>
+    <string name="settings_updateFrequencyMulti">Sync frequency (multiselect)</string>
+    <string name="settings_updateFrequencyMultiDialogTitle">Choose sync frequency</string>
+</resources>
